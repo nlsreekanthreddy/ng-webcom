@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-// import {TodoItem} from "simpleheader1.0";
-import { Mathfield } from 'mathlive';
 
 
 @Component({
